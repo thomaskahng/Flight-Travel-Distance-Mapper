@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Travel Distance Finder</string>
+    <string name="start">Start</string>
+
+    <string name="action_day">Day Mode</string>
+    <string name="action_night">Night Mode</string>
+    <string name="travel_distance_finder">Travel Distance Finder</string>
+
+    <string name="enter_area_or_city_name">Enter Area or City Name</string>
+    <string name="find_location">Find Location</string>
+    <string name="enter_starting_location">Enter Starting Location</string>
+    <string name="next">Next</string>
+
+    <string name="starting_point">Starting Point</string>
+    <string name="destination_point">Destination</string>
+
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="destination">Destination:</string>
+    <string name="starting_location_now">Starting Location:</string>
+    <string name="enter_destination">Enter Destination</string>
+    <string name="view_on_map">View on map</string>
+    <string name="metric">Metric</string>
+    <string name="imperial">Imperial</string>
+    <string name="unit_of_measurement">Unit of Measurement:</string>
+    <string name="start_at_current_location">Start at Android Studio Default?</string>
+    <string name="current_location">Current Location</string>
+
+    <string name="title_activity_maps">Map</string>
+</resources>
