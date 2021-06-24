@@ -1,22 +1,17 @@
-BMI Calculator
+Flight Travel Distance Mapper
 =================================
 
 About:
-This project will ask the user for their name, gender, age, height, weight, and circumferences of the hip and waist in order to calculate one’s BMI and Waist Hip Ratio for both imperial and metric units. At the end, the user has the option to email themselves (or practically anyone) their results. 
+This project will the user to enter a starting location, either a custom location or Android Studio Default Location, and a destination. Then, the flight travel distance between the two locations will be found, along with it being mapped in a Google Map.
 
 Main Menu:
 This part of the app just shows a visual about the purpose of this app, and it also contains a button, which the user will click to start using this app. Remember that on the top, the user can select the icon to switch from light mode to dark mode. When the user is in light mode, it will show the moon icon to go to dark mode, and when in dark mode, it shows a sun icon to go to light mode. 
 
-Enter values to begin:
-The user will enter name, age, gender, and units in order to start using this app. Waist hip ratio depends heavily on gender since males and females can get different health indications based on results, and unit matters since BMI is calculated differently for imperial units as opposed to metric units. We received the name and age for extra purposes for enhancing details of the app.
+Enter Starting Point:
+Here, the user can enter starting location. The user can decide to use Android Studio default location for Google Maps API (Sydney, Austrailia), or a custom location. then, the user can find the latitude and longitude of the starting point.
 
 Calculate BMI:
-The user will enter their weight in lbs or kg based on imperial or metric units, and will do the same with height by entering value in or cm based on units. These values will be used to calculate the BMI, and each BMI will give an indication of the user’s weight status based on BMI. 
+The user will enter a location to be the destination. Once a button is clicked, the user can find the latitude and longitude of the destination, as well as the flight travel distance from starting point to destination.
 
-
-Calculate Waist Hip Ratio:
-The user will enter waist circumference and hip circumference in either in or cm based on imperial or metric units. Those values will be used to calculate the waist hip ratio, and each value will give an indication based on body measurements and gender. 
-
-Results:
-Here, the user’s results will be shown, and the user has the option of emailing results to themselves (they can literally send to anyone). Or they either have the option to go back to the beginning (if done so, all data will be lost). 
-
+View Flight Travel Path:
+The user can view the flight travel path from the starting point to the destination. This used the Google Maps API to enable the Google Maps into the application. Here, there will be two markers, one at the starting point and another at the destination, and the flight path will be shown. Also, this displays the travel distance between the two locations as well.
