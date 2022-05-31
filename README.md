@@ -1,17 +1,17 @@
-Flight Travel Distance Mapper
-=================================
+# Main Menu (Light Mode and Dark Mode
 
-About:
-This project will the user to enter a starting location, either a custom location or Android Studio Default Location, and a destination. Then, the flight travel distance between the two locations will be found, along with it being mapped in a Google Map.
+![Screenshot 2022-05-30 211930](https://user-images.githubusercontent.com/76675748/171080222-4f9af0ac-d099-486a-b8ef-23a6e6d486f8.png)
 
-Main Menu:
-This part of the app just shows a visual about the purpose of this app, and it also contains a button, which the user will click to start using this app. Remember that on the top, the user can select the icon to switch from light mode to dark mode. When the user is in light mode, it will show the moon icon to go to dark mode, and when in dark mode, it shows a sun icon to go to light mode. 
+![Screenshot 2022-05-30 211953](https://user-images.githubusercontent.com/76675748/171080230-098daa46-c0af-4a1f-a0bc-e0de0c524974.png)
 
-Enter Starting Point:
-Here, the user can enter starting location. The user can decide to use Android Studio default location for Google Maps API (Sydney, Austrailia), or a custom location. then, the user can find the latitude and longitude of the starting point.
+# Enter Starting Location
 
-Calculate BMI:
-The user will enter a location to be the destination. Once a button is clicked, the user can find the latitude and longitude of the destination, as well as the flight travel distance from starting point to destination.
+![Screenshot 2022-05-30 212036](https://user-images.githubusercontent.com/76675748/171080243-293781b9-54de-4313-b256-261f2831603a.png)
 
-View Flight Travel Path:
-The user can view the flight travel path from the starting point to the destination. This used the Google Maps API to enable the Google Maps into the application. Here, there will be two markers, one at the starting point and another at the destination, and the flight path will be shown. Also, this displays the travel distance between the two locations as well.
+# Enter Destination
+
+![Screenshot 2022-05-30 212213](https://user-images.githubusercontent.com/76675748/171080252-926dab92-169b-4575-a6b8-1680c915ba4a.png)
+
+# View Flight Path/Distance on Map
+
+![Screenshot 2022-05-30 212231](https://user-images.githubusercontent.com/76675748/171080289-1b6ce5b1-beb5-4f90-81b2-e905a8c6aeb1.png)
